@@ -1,0 +1,17 @@
+{
+    "name": "edpx-ria",
+    "description": "EDP extension for RIA system.",
+    "version": "0.2.0",
+    "contributors": [
+        { "name": "errorrik", "email": "errorrik@gmail.com" },
+        { "name": "otakustay", "email" : "otakustay@live.com" }
+    ],
+    "dependencies": {
+        
+    },
+    "scripts": { 
+        "install" : "edp extension add ./lib",
+        "preuninstall" : "edp extension remove ./lib"
+    },
+    "repository": "git://github.com/ecomfe/edpx-ria"
+}
