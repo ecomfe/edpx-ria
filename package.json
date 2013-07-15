@@ -1,13 +1,18 @@
 {
     "name": "edpx-ria",
     "description": "EDP extension for RIA system.",
-    "version": "0.2.0",
+    "version": "0.4.0-alpha.1",
     "contributors": [
         { "name": "errorrik", "email": "errorrik@gmail.com" },
         { "name": "otakustay", "email" : "otakustay@live.com" }
     ],
     "dependencies": {
-        
+        "edp-project": "~0.4",
+        "edp-package": "~0.4",
+        "edp-codegen": "~0.4",
+        "edp-config": "~0.4",
+        "handlebars": "~1.0",
+        "mkdirp": "~0.3.3"
     },
     "scripts": { 
         "install" : "edp extension add ./lib",
