@@ -7,10 +7,10 @@
         { "name": "otakustay", "email" : "otakustay@live.com" }
     ],
     "dependencies": {
-        "edp-project": "~0.4",
-        "edp-package": "~0.4",
-        "edp-codegen": "~0.4",
-        "edp-config": "~0.4",
+        "edp-project": ">=0.4.16",
+        "edp-package": ">=0.4.4",
+        "edp-codegen": ">=0.4.2",
+        "edp-config": ">=0.4.2",
         "handlebars": "~1.0",
         "mkdirp": "~0.3.3"
     },
