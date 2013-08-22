@@ -5,7 +5,7 @@
 
 define( function ( require ) {
     // require template
-    require( 'er/tpl!{{{template}}}' );
+    require( 'er/tpl!{{{templateFile}}}' );
 
     var UIView = require( 'ef/UIView' );
     

@@ -7,6 +7,7 @@ define(
     function ( require ) {
         /**
          * 引入各业务模块的Action配置
+         * 如果期望添加action时工具自动配置，请保持requireConfigs名称不变
          *
          * @inner
          */

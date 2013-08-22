@@ -1,3 +1,8 @@
+/**
+ * @file sidebar行为管理
+ * @author {{{author}}}({{{authorEmail}}})
+ */
+
 define( function ( require ) {
 
     var NEIGHBOR_ID             = 'main-area';
