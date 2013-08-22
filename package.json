@@ -1,7 +1,7 @@
 {
     "name": "edpx-ria",
     "description": "EDP extension for RIA system.",
-    "version": "0.4.0-alpha.1",
+    "version": "0.4.0-beta.1",
     "contributors": [
         { "name": "errorrik", "email": "errorrik@gmail.com" },
         { "name": "otakustay", "email" : "otakustay@live.com" }
