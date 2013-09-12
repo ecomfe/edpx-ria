@@ -16,7 +16,7 @@
 <div class="header">
     <a class="logo" href="#" target="_blank"><img alt="" title="" src="src/common/img/logo.png" width="98" height="32"></a>
     <ul class="nav">
-        <li class="nav-current"><a href="#">首页</a></li>
+        <li class="nav-item-current"><a href="#">首页</a></li>
         <li><a href="#">导航1</a></li>
         <li><a href="#">导航2</a></li>
     </ul>
