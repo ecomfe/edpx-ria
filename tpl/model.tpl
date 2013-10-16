@@ -15,10 +15,9 @@ define( function ( require ) {
     function {{{model}}}() {
         Model.apply( this, arguments );
     }
-    
+
     {{{model}}}.prototype = {
-        datasource: {
-        }
+        datasource: null
     };
 
     // return模块

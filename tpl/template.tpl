@@ -1,2 +1,2 @@
 <!-- target: {{{target}}} -->
-<div></div>
+<div>{{{target}}}</div>
