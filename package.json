@@ -11,12 +11,13 @@
         "edp-package": ">=0.4.4",
         "edp-codegen": ">=0.4.2",
         "edp-config": ">=0.4.2",
+        "semver": ">=2.1.0",
         "handlebars": "~1.0",
         "mkdirp": "~0.3.3"
     },
     "scripts": { 
         "install" : "edp extension add ./lib",
-        "preuninstall" : "edp extension remove ./lib"
+        "preinstall" : "edp extension remove ./lib"
     },
     "repository": "git://github.com/ecomfe/edpx-ria"
 }

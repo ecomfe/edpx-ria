@@ -10,7 +10,7 @@ define( function ( require ) {
     /**
      * [Please Input Model Description]
      * 
-     * @construct
+     * @constructor
      */
     function {{{model}}}() {
         Model.apply( this, arguments );

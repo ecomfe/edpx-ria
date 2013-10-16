@@ -12,7 +12,7 @@ define( function ( require ) {
     /**
      * [Please Input View Description]
      * 
-     * @construct
+     * @constructor
      */
     function {{{view}}}() {
         UIView.apply( this, arguments );

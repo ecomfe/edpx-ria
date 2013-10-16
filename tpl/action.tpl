@@ -9,7 +9,7 @@ define( function ( require ) {
     /**
      * [Please Input Action Description]
      * 
-     * @construct
+     * @constructor
      */
     function {{{action}}}() {
         Action.apply( this, arguments );
